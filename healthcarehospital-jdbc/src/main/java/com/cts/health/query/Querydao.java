@@ -1,4 +1,4 @@
-package com.cts.query;
+package com.cts.health.query;
 
 public class Querydao {
 

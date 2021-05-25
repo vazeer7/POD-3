@@ -1,4 +1,4 @@
-package com.cts.testreport;
+package com.cts.repository;
 
 public class Testreportdao {
 
